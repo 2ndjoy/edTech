@@ -1,0 +1,21 @@
+body{
+    margin: 0 10px;
+}
+.edu-btn-buy-now{
+    background-color: #fff;
+    color: rgb(26, 93, 210);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.edu-btn-buy-now:hover{
+    background-color: rgb(14, 185, 236);
+    color: rgb(252, 252, 252);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+
+}
+.com-img{
+    height: 1.5vw;
+}
